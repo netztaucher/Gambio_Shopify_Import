@@ -6,6 +6,7 @@ import re
 import chardet
 import argparse
 
+
 # Funktion zur Erkennung der Kodierung einer Datei
 def detect_encoding(file_path):
     with open(file_path, 'rb') as file:
