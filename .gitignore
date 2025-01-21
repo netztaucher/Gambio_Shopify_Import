@@ -2,9 +2,11 @@
 Material/
 ! Material/
 
+
 # Ignoriere alle Dateien in csv_files außer denen mit "sample"
 csv_files/*
 !csv_files/*sample*
+
 
 # Ignoriere den venv Ordner
 venv/
