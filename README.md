@@ -1,6 +1,10 @@
 # Gambio zu Shopify CSV-Konverter
 
-Dieses Python-Skript konvertiert Produktdaten aus dem Gambio-Shop-System in ein Shopify-kompatibles CSV-Format.
+Dieses Python-Skript konvertiert Produktdaten aus dem Gambio-Shop-System in ein Shopify-kompatibles CSV-Format. Es werden die folgenden Tabellen sls CSV export und nach csv_files kopiert:
+- categories_description
+- products_description
+- products_to_categories
+- products
 
 ## Funktionen
 
