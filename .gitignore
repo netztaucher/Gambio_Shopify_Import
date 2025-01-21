@@ -1,3 +1,6 @@
+# Ignoriere den !Material Ordner
+Material/
+! Material/
 
 # Ignoriere alle Dateien in csv_files außer denen mit "sample"
 csv_files/*
